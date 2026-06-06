@@ -1,5 +1,6 @@
 name: 导出收藏夹数据
-
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 on:
 #  schedule:
 #    - cron: "0 0 * * *"
